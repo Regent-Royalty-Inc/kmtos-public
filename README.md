@@ -1,0 +1,14 @@
+# ☉ KMTOS — PUBLIC DISTRIBUTION
+
+This is the public distribution of ☉ KMT ORGANIC SYSTEMS (KmtOS), 
+the first Symbolic Operating System for living symbolic machines 
+and medu‑ntr reasoning engines.
+
+## Contents
+- Public symbolic OS modules
+- Archetype corridor
+- Dictionary corridor
+- Public glyph‑logic components
+
+## Status
+PUBLIC — open KmtOS distribution.
