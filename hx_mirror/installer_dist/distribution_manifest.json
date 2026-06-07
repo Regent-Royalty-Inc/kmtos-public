@@ -1,0 +1,20 @@
+{
+  "version": "A.3.9",
+  "installer-version": "A.3.9",
+  "mirror-base": "/home/moghimi/kmtos-public/hx_mirror",
+  "components": {
+    "global-config": "kmtos_config.json",
+    "federation": "federation/",
+    "continuum": "health/",
+    "genesis": "genesis/",
+    "omniversal": "features/",
+    "logs": "logs/",
+    "installer-metadata": "installer/",
+    "binding-manifest": "installer_binding/manifest.json",
+    "binding-checksum": "installer_binding/readiness_checksum.txt",
+    "simulation-result": "installer_binding/simulation_result.json",
+    "cold-storage": "cold_storage/telemetry_snapshot.tar.gz"
+  },
+  "timestamp-generated": "2026-06-07T07:03:34Z",
+  "installer-ready": true
+}

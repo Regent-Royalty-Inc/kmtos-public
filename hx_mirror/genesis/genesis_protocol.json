@@ -1,0 +1,27 @@
+{
+  "version": "79A.1",
+  "protocol-id": "genesis-initialization",
+  "baseline-tier": "Continuum",
+  "dependencies": {
+    "installer-packaged": true,
+    "telemetry-normalized": true,
+    "cold-storage-available": true
+  },
+  "activation-conditions": {
+    "allow-genesis-activation-flag": false,
+    "no-critical-health-failures": true,
+    "installer-state": "packaged"
+  },
+  "generative-field-parameters": {
+    "seed-directory": "seeds",
+    "max-active-seeds": 16,
+    "symbolic-mode": "deterministic",
+    "reversibility": "required"
+  },
+  "safety-gates": {
+    "require-explicit-operator-consent": true,
+    "require-backup-snapshot": true,
+    "require-health-check-pass": true
+  },
+  "timestamp-defined": "2026-06-07T07:00:59Z"
+}

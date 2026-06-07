@@ -1,0 +1,31 @@
+[80A.4] Continuum Field Synchronization initialized.
+[80A.4] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.4] Resonance calibration confirmed.
+[80A.4] Node Node_A synchronization phase offset set to 0 radians
+[80A.4] Node Node_B synchronization phase offset set to 0 radians
+[80A.4] Node Node_C synchronization phase offset set to 0 radians
+[80A.4] Continuum field synchronization report written to /home/moghimi/kmtos-public/hx_mirror/genesis/continuum_field_synchronization_report.json.
+[80A.4] Distributed harmonic lock file written to /home/moghimi/kmtos-public/hx_mirror/genesis/distributed_harmonic_lock.json.
+[80A.4] Genesis readiness summary updated to continuum-field-synchronized-and-harmonic-locked.
+[80A.4] Continuum Field Synchronization and Distributed Harmonic Locking Protocol complete.
+[80A.4] Continuum Field Synchronization initialized.
+[80A.4] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.4] ERROR: Resonance not calibrated or harmonic audit incomplete. Run 80A.3 before 80A.4.
+[80A.4] Continuum Field Synchronization initialized.
+[80A.4] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.4] ERROR: Resonance not calibrated or harmonic audit incomplete. Run 80A.3 before 80A.4.
+[80A.4] Continuum Field Synchronization initialized.
+[80A.4] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.4] ERROR: Resonance not calibrated or harmonic audit incomplete. Run 80A.3 before 80A.4.
+[80A.4] Continuum Field Synchronization initialized.
+[80A.4] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.4] ERROR: Resonance not calibrated or harmonic audit incomplete. Run 80A.3 before 80A.4.
+[80A.4] Continuum Field Synchronization initialized.
+[80A.4] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.4] ERROR: Resonance not calibrated or harmonic audit incomplete. Run 80A.3 before 80A.4.
+[80A.4] Continuum Field Synchronization initialized.
+[80A.4] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.4] ERROR: Resonance not calibrated or harmonic audit incomplete. Run 80A.3 before 80A.4.
+[80A.4] Continuum Field Synchronization initialized.
+[80A.4] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.4] ERROR: Resonance not calibrated or harmonic audit incomplete. Run 80A.3 before 80A.4.

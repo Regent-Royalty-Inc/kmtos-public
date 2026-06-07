@@ -1,0 +1,111 @@
+[79A.7] Genesis Integrity Verification initialized.
+[79A.7] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[79A.7] Field stabilization confirmed.
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_manifest.json: 502c65081568b02f9178bdf6cc09781f8f1661288b118aeed0634eb6d62ce994
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/seed_registry.json: 4b6824fd9fd32133a05d9275f47ba29ec3ed11688809e83f9dceebc9d0eddabf
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_stabilization_report.json: 7aaa6d8403e72f7206ea247dcc5ee1193c2a847ff5694931bfa1f07a647b0d83
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/telemetry_status.json: feab3c102401ba2e7576385634a25c70baf05306a7860b838b24c0a5095e54c3
+[79A.7] Genesis Integrity Verification initialized.
+[79A.7] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[79A.7] Field stabilization confirmed.
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_manifest.json: 502c65081568b02f9178bdf6cc09781f8f1661288b118aeed0634eb6d62ce994
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/seed_registry.json: 4b6824fd9fd32133a05d9275f47ba29ec3ed11688809e83f9dceebc9d0eddabf
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_stabilization_report.json: 7aaa6d8403e72f7206ea247dcc5ee1193c2a847ff5694931bfa1f07a647b0d83
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/telemetry_status.json: feab3c102401ba2e7576385634a25c70baf05306a7860b838b24c0a5095e54c3
+[79A.7] Harmonic index: 1
+[79A.7] Consistency score: 99.75
+[79A.7] Integrity report written to /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_integrity_report.json.
+[79A.7] Continuum binding file created.
+[79A.7] Genesis readiness summary updated to integrity-verified-and-bound.
+[79A.7] Genesis Integrity Verification and Continuum Binding Protocol complete.
+[79A.7] Genesis Integrity Verification initialized.
+[79A.7] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[79A.7] Field stabilization confirmed.
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_manifest.json: 6d5ace406514e853df5290072fb1ff464010ac438f0b3d77bcf5bab1d5e00566
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/seed_registry.json: 08921ef28160d0560fe4afc340157b99e24085589eb35aa75b050b3021c62904
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_stabilization_report.json: 49cfe10ff8e0fef899eee2ae3423a2be2da83af12c272741fda0ae7f72c2e60b
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/telemetry_status.json: a99051d2246ae6b6c6918c0b4ef637701d43f4c9f817c9cd507affd34686c99e
+[79A.7] Harmonic index: 1
+[79A.7] Consistency score: 99.75
+[79A.7] Integrity report written to /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_integrity_report.json.
+[79A.7] Continuum binding file created.
+[79A.7] Genesis readiness summary updated to integrity-verified-and-bound.
+[79A.7] Genesis Integrity Verification and Continuum Binding Protocol complete.
+[79A.7] Genesis Integrity Verification initialized.
+[79A.7] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[79A.7] Field stabilization confirmed.
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_manifest.json: 6233915f5e1dfd5987138d71556a2b5a3ecd08d7f27bdf74f936955f202e6568
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/seed_registry.json: 3f6be924005ca56e904ba5500de4eb6d60e249121826c6760970e81a3679cbc4
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_stabilization_report.json: 89c0053bca30dcdeaea027aadea3e6a7c9d0fd63c1b66813f11270307ae50ee6
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/telemetry_status.json: f87e763e99f27be76669db3f69b0bada28f8cbd88e3c141aa5cfb47c0854074a
+[79A.7] Harmonic index: 1
+[79A.7] Consistency score: 99.75
+[79A.7] Integrity report written to /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_integrity_report.json.
+[79A.7] Continuum binding file created.
+[79A.7] Genesis readiness summary updated to integrity-verified-and-bound.
+[79A.7] Genesis Integrity Verification and Continuum Binding Protocol complete.
+[79A.7] Genesis Integrity Verification initialized.
+[79A.7] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[79A.7] Field stabilization confirmed.
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_manifest.json: d80206b31befcecdd416f5d089e9801b542b2a04b26b0f9542c20cdaf637bbd3
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/seed_registry.json: 33a2c180c9f048ddfa1d87aeae525eb7aa8c648783834fe5c0ad7c4ac161965f
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_stabilization_report.json: 2eb84e3a8d72a0acdeb00ac7b3fa61a15922c7b2a2133afa94d764a9e53a0cd5
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/telemetry_status.json: cd2e4a0bc3a5fc3b02acab9056324ffc65d196fc9d41591e1ee08bfde69cec0d
+[79A.7] Harmonic index: 1
+[79A.7] Consistency score: 99.75
+[79A.7] Integrity report written to /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_integrity_report.json.
+[79A.7] Continuum binding file created.
+[79A.7] Genesis readiness summary updated to integrity-verified-and-bound.
+[79A.7] Genesis Integrity Verification and Continuum Binding Protocol complete.
+[79A.7] Genesis Integrity Verification initialized.
+[79A.7] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[79A.7] Field stabilization confirmed.
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_manifest.json: 6b77c4d6470a52d03758771d20eea23d76d2efd802272e23f26c508860ea672e
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/seed_registry.json: ea863d5c94a5f49db40250b8204140770a176322a76e23eb0ccf11b5ac74e16f
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_stabilization_report.json: 8eb77efb11ab524cccf903d85e353929803d5bfa96fbe682d48d0cb603c21dcd
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/telemetry_status.json: d8795e9662422c58117ee24feebc782a453de184ecb4843915f4a147cd424640
+[79A.7] Harmonic index: 1
+[79A.7] Consistency score: 99.75
+[79A.7] Integrity report written to /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_integrity_report.json.
+[79A.7] Continuum binding file created.
+[79A.7] Genesis readiness summary updated to integrity-verified-and-bound.
+[79A.7] Genesis Integrity Verification and Continuum Binding Protocol complete.
+[79A.7] Genesis Integrity Verification initialized.
+[79A.7] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[79A.7] Field stabilization confirmed.
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_manifest.json: 6c594f653d329b4878c99e756b253d33f4816194f4c0993df8caffbb415c3331
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/seed_registry.json: 8d6e75cab6a6be34ce69e707e5f012cb4855bb5d93d8d7edfc616b4a10f873fb
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_stabilization_report.json: bc0227775b76ff03591cae33d05c4a1b029be58c737b55a68f7721fbb8ccb29a
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/telemetry_status.json: 2510c8592cc24ecb2dc5f1c66adea2442fb3f0d92314e2dbd084f3fb48ba7ae7
+[79A.7] Harmonic index: 1
+[79A.7] Consistency score: 99.75
+[79A.7] Integrity report written to /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_integrity_report.json.
+[79A.7] Continuum binding file created.
+[79A.7] Genesis readiness summary updated to integrity-verified-and-bound.
+[79A.7] Genesis Integrity Verification and Continuum Binding Protocol complete.
+[79A.7] Genesis Integrity Verification initialized.
+[79A.7] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[79A.7] Field stabilization confirmed.
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_manifest.json: d8477b9e4652577ac7929289670ffd0a0cbc6f97ca62194516ed4d6bfef72fba
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/seed_registry.json: 44a9cd6c7efcd32187ab4ad452e67693bbdc86327ea0f47285b84c59790b32bd
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_stabilization_report.json: ac2416290d8a8c2c258d8f1dd94e7cc19396a23e4bebac30b248d2c081849514
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/telemetry_status.json: 50e3f52697a0cc6d6fd9eb6d2b9231f562802302340e6ce15d4359a86c864a23
+[79A.7] Harmonic index: 1
+[79A.7] Consistency score: 99.75
+[79A.7] Integrity report written to /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_integrity_report.json.
+[79A.7] Continuum binding file created.
+[79A.7] Genesis readiness summary updated to integrity-verified-and-bound.
+[79A.7] Genesis Integrity Verification and Continuum Binding Protocol complete.
+[79A.7] Genesis Integrity Verification initialized.
+[79A.7] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[79A.7] Field stabilization confirmed.
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_manifest.json: c1d533588e8a2b0de05577246e597782bbaaf438b889effd3a6a5e07d4e40288
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/seed_registry.json: b703f66bbb1aebd00f1f0fa8d5209af4a77d704ef125bea49d26dc73cf356374
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_stabilization_report.json: 81c02ac952242b0ea1c52ce711fb20a7529eac0b43632d923b2a37b034c1331e
+[79A.7] Integrity hash computed for /home/moghimi/kmtos-public/hx_mirror/genesis/telemetry_status.json: 6913a856260f066563aec35b3282e35dfbb3503aaf22d974953d8977f79cd2d0
+[79A.7] Harmonic index: 1
+[79A.7] Consistency score: 99.75
+[79A.7] Integrity report written to /home/moghimi/kmtos-public/hx_mirror/genesis/genesis_integrity_report.json.
+[79A.7] Continuum binding file created.
+[79A.7] Genesis readiness summary updated to integrity-verified-and-bound.
+[79A.7] Genesis Integrity Verification and Continuum Binding Protocol complete.

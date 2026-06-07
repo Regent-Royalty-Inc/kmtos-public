@@ -1,0 +1,152 @@
+[A.3.8] Installer Execution Simulation initialized.
+[A.3.8] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.8] Manifest and checksum detected and valid.
+[A.3.8] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.8] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.8] ledger-commit: /home/moghimi/kmtos-public/hx_mirror/ledger/commit.json
+[A.3.8] storage-monitor-state: /home/moghimi/kmtos-public/hx_mirror/storage_monitor/state.json
+[A.3.8] cold-storage-metadata: /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json
+[A.3.8] cold-storage-archive: /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz
+[A.3.8] installer-ready flag: true
+[A.3.8] Simulating checksum verification...
+[A.3.8] Checksum simulation: MATCH.
+[A.3.8] Simulating installer steps (no actual changes applied)...
+[A.3.8] - Step 1: Validate manifest structure.
+[A.3.8] - Step 2: Validate artifact presence and readability.
+[A.3.8] - Step 3: Validate checksum integrity.
+[A.3.8] - Step 4: Prepare environment for real install (simulated).
+[A.3.8] Writing simulation result to /home/moghimi/kmtos-public/hx_mirror/installer_binding/simulation_result.json...
+[A.3.8] Installer Execution Simulation complete (status: ready).
+[A.3.8] Installer Execution Simulation initialized.
+[A.3.8] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.8] Manifest and checksum detected and valid.
+[A.3.8] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.8] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.8] ledger-commit: /home/moghimi/kmtos-public/hx_mirror/ledger/commit.json
+[A.3.8] storage-monitor-state: /home/moghimi/kmtos-public/hx_mirror/storage_monitor/state.json
+[A.3.8] cold-storage-metadata: /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json
+[A.3.8] cold-storage-archive: /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz
+[A.3.8] installer-ready flag: true
+[A.3.8] Simulating checksum verification...
+[A.3.8] Checksum simulation: MATCH.
+[A.3.8] Simulating installer steps (no actual changes applied)...
+[A.3.8] - Step 1: Validate manifest structure.
+[A.3.8] - Step 2: Validate artifact presence and readability.
+[A.3.8] - Step 3: Validate checksum integrity.
+[A.3.8] - Step 4: Prepare environment for real install (simulated).
+[A.3.8] Writing simulation result to /home/moghimi/kmtos-public/hx_mirror/installer_binding/simulation_result.json...
+[A.3.8] Installer Execution Simulation complete (status: ready).
+[A.3.8] Installer Execution Simulation initialized.
+[A.3.8] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.8] Manifest and checksum detected and valid.
+[A.3.8] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.8] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.8] ledger-commit: /home/moghimi/kmtos-public/hx_mirror/ledger/commit.json
+[A.3.8] storage-monitor-state: /home/moghimi/kmtos-public/hx_mirror/storage_monitor/state.json
+[A.3.8] cold-storage-metadata: /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json
+[A.3.8] cold-storage-archive: /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz
+[A.3.8] installer-ready flag: true
+[A.3.8] Simulating checksum verification...
+[A.3.8] Checksum simulation: MATCH.
+[A.3.8] Simulating installer steps (no actual changes applied)...
+[A.3.8] - Step 1: Validate manifest structure.
+[A.3.8] - Step 2: Validate artifact presence and readability.
+[A.3.8] - Step 3: Validate checksum integrity.
+[A.3.8] - Step 4: Prepare environment for real install (simulated).
+[A.3.8] Writing simulation result to /home/moghimi/kmtos-public/hx_mirror/installer_binding/simulation_result.json...
+[A.3.8] Installer Execution Simulation complete (status: ready).
+[A.3.8] Installer Execution Simulation initialized.
+[A.3.8] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.8] Manifest and checksum detected and valid.
+[A.3.8] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.8] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.8] ledger-commit: /home/moghimi/kmtos-public/hx_mirror/ledger/commit.json
+[A.3.8] storage-monitor-state: /home/moghimi/kmtos-public/hx_mirror/storage_monitor/state.json
+[A.3.8] cold-storage-metadata: /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json
+[A.3.8] cold-storage-archive: /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz
+[A.3.8] installer-ready flag: true
+[A.3.8] Simulating checksum verification...
+[A.3.8] Checksum simulation: MATCH.
+[A.3.8] Simulating installer steps (no actual changes applied)...
+[A.3.8] - Step 1: Validate manifest structure.
+[A.3.8] - Step 2: Validate artifact presence and readability.
+[A.3.8] - Step 3: Validate checksum integrity.
+[A.3.8] - Step 4: Prepare environment for real install (simulated).
+[A.3.8] Writing simulation result to /home/moghimi/kmtos-public/hx_mirror/installer_binding/simulation_result.json...
+[A.3.8] Installer Execution Simulation complete (status: ready).
+[A.3.8] Installer Execution Simulation initialized.
+[A.3.8] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.8] Manifest and checksum detected and valid.
+[A.3.8] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.8] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.8] ledger-commit: /home/moghimi/kmtos-public/hx_mirror/ledger/commit.json
+[A.3.8] storage-monitor-state: /home/moghimi/kmtos-public/hx_mirror/storage_monitor/state.json
+[A.3.8] cold-storage-metadata: /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json
+[A.3.8] cold-storage-archive: /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz
+[A.3.8] installer-ready flag: true
+[A.3.8] Simulating checksum verification...
+[A.3.8] Checksum simulation: MATCH.
+[A.3.8] Simulating installer steps (no actual changes applied)...
+[A.3.8] - Step 1: Validate manifest structure.
+[A.3.8] - Step 2: Validate artifact presence and readability.
+[A.3.8] - Step 3: Validate checksum integrity.
+[A.3.8] - Step 4: Prepare environment for real install (simulated).
+[A.3.8] Writing simulation result to /home/moghimi/kmtos-public/hx_mirror/installer_binding/simulation_result.json...
+[A.3.8] Installer Execution Simulation complete (status: ready).
+[A.3.8] Installer Execution Simulation initialized.
+[A.3.8] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.8] Manifest and checksum detected and valid.
+[A.3.8] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.8] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.8] ledger-commit: /home/moghimi/kmtos-public/hx_mirror/ledger/commit.json
+[A.3.8] storage-monitor-state: /home/moghimi/kmtos-public/hx_mirror/storage_monitor/state.json
+[A.3.8] cold-storage-metadata: /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json
+[A.3.8] cold-storage-archive: /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz
+[A.3.8] installer-ready flag: true
+[A.3.8] Simulating checksum verification...
+[A.3.8] Checksum simulation: MATCH.
+[A.3.8] Simulating installer steps (no actual changes applied)...
+[A.3.8] - Step 1: Validate manifest structure.
+[A.3.8] - Step 2: Validate artifact presence and readability.
+[A.3.8] - Step 3: Validate checksum integrity.
+[A.3.8] - Step 4: Prepare environment for real install (simulated).
+[A.3.8] Writing simulation result to /home/moghimi/kmtos-public/hx_mirror/installer_binding/simulation_result.json...
+[A.3.8] Installer Execution Simulation complete (status: ready).
+[A.3.8] Installer Execution Simulation initialized.
+[A.3.8] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.8] Manifest and checksum detected and valid.
+[A.3.8] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.8] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.8] ledger-commit: /home/moghimi/kmtos-public/hx_mirror/ledger/commit.json
+[A.3.8] storage-monitor-state: /home/moghimi/kmtos-public/hx_mirror/storage_monitor/state.json
+[A.3.8] cold-storage-metadata: /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json
+[A.3.8] cold-storage-archive: /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz
+[A.3.8] installer-ready flag: true
+[A.3.8] Simulating checksum verification...
+[A.3.8] Checksum simulation: MATCH.
+[A.3.8] Simulating installer steps (no actual changes applied)...
+[A.3.8] - Step 1: Validate manifest structure.
+[A.3.8] - Step 2: Validate artifact presence and readability.
+[A.3.8] - Step 3: Validate checksum integrity.
+[A.3.8] - Step 4: Prepare environment for real install (simulated).
+[A.3.8] Writing simulation result to /home/moghimi/kmtos-public/hx_mirror/installer_binding/simulation_result.json...
+[A.3.8] Installer Execution Simulation complete (status: ready).
+[A.3.8] Installer Execution Simulation initialized.
+[A.3.8] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.8] Manifest and checksum detected and valid.
+[A.3.8] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.8] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.8] ledger-commit: /home/moghimi/kmtos-public/hx_mirror/ledger/commit.json
+[A.3.8] storage-monitor-state: /home/moghimi/kmtos-public/hx_mirror/storage_monitor/state.json
+[A.3.8] cold-storage-metadata: /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json
+[A.3.8] cold-storage-archive: /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz
+[A.3.8] installer-ready flag: true
+[A.3.8] Simulating checksum verification...
+[A.3.8] Checksum simulation: MATCH.
+[A.3.8] Simulating installer steps (no actual changes applied)...
+[A.3.8] - Step 1: Validate manifest structure.
+[A.3.8] - Step 2: Validate artifact presence and readability.
+[A.3.8] - Step 3: Validate checksum integrity.
+[A.3.8] - Step 4: Prepare environment for real install (simulated).
+[A.3.8] Writing simulation result to /home/moghimi/kmtos-public/hx_mirror/installer_binding/simulation_result.json...
+[A.3.8] Installer Execution Simulation complete (status: ready).

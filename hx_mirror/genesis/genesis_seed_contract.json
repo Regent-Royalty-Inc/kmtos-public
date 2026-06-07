@@ -1,0 +1,45 @@
+{
+  "version": "79A.2",
+  "contract-id": "genesis-seed",
+  "seed-schema": {
+    "id": "string",
+    "type": "string",
+    "label": "string",
+    "description": "string",
+    "created-at": "string",
+    "parameters": "object",
+    "enabled": "boolean"
+  },
+  "allowed-types": [
+    "telemetry-derived",
+    "symbolic-structural",
+    "operator-defined"
+  ],
+  "validation-rules": {
+    "require-id": true,
+    "require-type": true,
+    "require-label": true,
+    "require-created-at": true,
+    "require-parameters-object": true
+  },
+  "hashing": {
+    "algorithm": "sha256",
+    "input-fields": [
+      "id",
+      "type",
+      "label",
+      "created-at"
+    ]
+  },
+  "lifecycle": {
+    "states": [
+      "defined",
+      "validated",
+      "registered",
+      "activated",
+      "retired"
+    ],
+    "default-state": "defined"
+  },
+  "timestamp-defined": "2026-06-07T07:00:59Z"
+}

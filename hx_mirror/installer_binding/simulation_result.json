@@ -1,0 +1,10 @@
+{
+  "version": "A.3.8",
+  "mirror-base": "/home/moghimi/kmtos-public/hx_mirror",
+  "manifest": "/home/moghimi/kmtos-public/hx_mirror/installer_binding/manifest.json",
+  "checksum-file": "/home/moghimi/kmtos-public/hx_mirror/installer_binding/readiness_checksum.txt",
+  "installer-ready-flag": true,
+  "checksum-status": "match",
+  "simulation-status": "ready",
+  "timestamp-generated": "2026-06-07T07:03:34Z"
+}

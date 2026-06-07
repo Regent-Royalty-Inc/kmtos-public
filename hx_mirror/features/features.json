@@ -1,0 +1,8 @@
+{
+  "feature-flags": {
+    "propagation-engine": false,
+    "symbolic-resonance": false,
+    "federated-telemetry": false
+  }
+}
+

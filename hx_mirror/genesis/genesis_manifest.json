@@ -1,0 +1,10 @@
+{
+  "genesis-enabled": true,
+  "seed-directory": "seeds",
+  "active-seeds": [],
+  "timestamp-generated": "2026-06-07T01:35:00Z",
+  "protocol-version": "79A.1",
+  "last-protocol-update": "2026-06-07T07:00:59Z",
+  "activation-timestamp": "2026-06-07T07:00:59Z",
+  "activation-source": "operator-consent"
+}

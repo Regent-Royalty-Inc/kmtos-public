@@ -1,0 +1,48 @@
+[80A.3] Field Resonance Calibration initialized.
+[80A.3] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.3] External node stability confirmed.
+[80A.3] Node Node_A resonance frequency calibrated to 432 Hz
+[80A.3] Node Node_B resonance frequency calibrated to 432 Hz
+[80A.3] Node Node_C resonance frequency calibrated to 432 Hz
+[80A.3] Field resonance calibration report written to /home/moghimi/kmtos-public/hx_mirror/genesis/field_resonance_calibration_report.json.
+[80A.3] Field Resonance Calibration initialized.
+[80A.3] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.3] External node stability confirmed.
+[80A.3] Node Node_A resonance frequency calibrated to 432 Hz
+[80A.3] Node Node_B resonance frequency calibrated to 432 Hz
+[80A.3] Node Node_C resonance frequency calibrated to 432 Hz
+[80A.3] Field resonance calibration report written to /home/moghimi/kmtos-public/hx_mirror/genesis/field_resonance_calibration_report.json.
+[80A.3] Field Resonance Calibration initialized.
+[80A.3] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.3] External node stability confirmed.
+[80A.3] Node Node_A resonance frequency calibrated to 432 Hz
+[80A.3] Node Node_B resonance frequency calibrated to 432 Hz
+[80A.3] Node Node_C resonance frequency calibrated to 432 Hz
+[80A.3] Field resonance calibration report written to /home/moghimi/kmtos-public/hx_mirror/genesis/field_resonance_calibration_report.json.
+[80A.3] Average resonance frequency: 432 Hz
+[80A.3] Harmonic deviation: 0
+[80A.3] Harmonic coherence score: 100
+[80A.3] Cross-node harmonic audit file written to /home/moghimi/kmtos-public/hx_mirror/genesis/cross_node_harmonic_audit.json.
+[80A.3] Genesis readiness summary updated to field-resonance-calibrated-and-harmonic-audited.
+[80A.3] Field Resonance Calibration and Cross-Node Harmonic Audit Protocol complete.
+[80A.3] Field Resonance Calibration initialized.
+[80A.3] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.3] ERROR: Nodes not stable or propagation not verified. Run 80A.2 before 80A.3.
+[80A.3] Field Resonance Calibration initialized.
+[80A.3] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.3] ERROR: Nodes not stable or propagation not verified. Run 80A.2 before 80A.3.
+[80A.3] Field Resonance Calibration initialized.
+[80A.3] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.3] ERROR: Nodes not stable or propagation not verified. Run 80A.2 before 80A.3.
+[80A.3] Field Resonance Calibration initialized.
+[80A.3] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.3] ERROR: Nodes not stable or propagation not verified. Run 80A.2 before 80A.3.
+[80A.3] Field Resonance Calibration initialized.
+[80A.3] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.3] ERROR: Nodes not stable or propagation not verified. Run 80A.2 before 80A.3.
+[80A.3] Field Resonance Calibration initialized.
+[80A.3] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.3] ERROR: Nodes not stable or propagation not verified. Run 80A.2 before 80A.3.
+[80A.3] Field Resonance Calibration initialized.
+[80A.3] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.3] ERROR: Nodes not stable or propagation not verified. Run 80A.2 before 80A.3.

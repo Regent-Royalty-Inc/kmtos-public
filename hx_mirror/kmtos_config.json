@@ -1,0 +1,15 @@
+{
+  "kmtos-version": "0.1.0",
+  "schema-version": "A.3.x",
+  "tier-baseline": "Continuum",
+  "mode": "standalone",
+  "genesis-enabled": false,
+  "telemetry-opt-in": false,
+  "installer-version": "A.3.9-prep",
+  "environment": {
+    "os": "Ubuntu 22.04.5 LTS",
+    "architecture": "x86_64",
+    "timestamp-generated": "2026-06-07T01:35:00Z"
+  }
+}
+

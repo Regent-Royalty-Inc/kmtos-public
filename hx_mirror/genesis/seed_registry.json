@@ -1,0 +1,15 @@
+{
+  "version": "79A.2",
+  "seeds": [
+    {
+      "id": "seed-001",
+      "type": "symbolic-structural",
+      "label": "Continuum-Origin",
+      "hash": "2d2634bc9d608b4bd0b9d5b847bda3758a1aecad7eea55abdca6caf2c50a8ca4",
+      "registered-at": "2026-06-07T07:00:59Z",
+      "state": "registered"
+    }
+  ],
+  "registry-hash": "2d2634bc9d608b4bd0b9d5b847bda3758a1aecad7eea55abdca6caf2c50a8ca4",
+  "last-update": "2026-06-07T07:00:59Z"
+}

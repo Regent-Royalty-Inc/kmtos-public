@@ -1,0 +1,33 @@
+[80A.2] External Node Stability Audit initialized.
+[80A.2] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.2] Field propagation and node activation confirmed.
+[80A.2] Node Node_A stability: 99.9
+[80A.2] Node Node_B stability: 99.9
+[80A.2] Node Node_C stability: 99.9
+[80A.2] External node stability report written to /home/moghimi/kmtos-public/hx_mirror/genesis/external_node_stability_report.json.
+[80A.2] Average node stability: 99.9
+[80A.2] Propagation integrity score: 99.85
+[80A.2] Propagation integrity file written to /home/moghimi/kmtos-public/hx_mirror/genesis/propagation_integrity.json.
+[80A.2] Genesis readiness summary updated to external-nodes-stable-and-propagation-verified.
+[80A.2] External Node Stability Audit and Propagation Integrity Protocol complete.
+[80A.2] External Node Stability Audit initialized.
+[80A.2] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.2] ERROR: Field not propagated or nodes inactive. Run 80A.1 before 80A.2.
+[80A.2] External Node Stability Audit initialized.
+[80A.2] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.2] ERROR: Field not propagated or nodes inactive. Run 80A.1 before 80A.2.
+[80A.2] External Node Stability Audit initialized.
+[80A.2] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.2] ERROR: Field not propagated or nodes inactive. Run 80A.1 before 80A.2.
+[80A.2] External Node Stability Audit initialized.
+[80A.2] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.2] ERROR: Field not propagated or nodes inactive. Run 80A.1 before 80A.2.
+[80A.2] External Node Stability Audit initialized.
+[80A.2] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.2] ERROR: Field not propagated or nodes inactive. Run 80A.1 before 80A.2.
+[80A.2] External Node Stability Audit initialized.
+[80A.2] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.2] ERROR: Field not propagated or nodes inactive. Run 80A.1 before 80A.2.
+[80A.2] External Node Stability Audit initialized.
+[80A.2] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.2] ERROR: Field not propagated or nodes inactive. Run 80A.1 before 80A.2.

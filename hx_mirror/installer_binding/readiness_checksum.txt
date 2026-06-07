@@ -1,0 +1,2 @@
+ea80ffddc17cc3e078cca265de895e2ca4805d9dd19f0ca9a589c8b4418ced20  /home/moghimi/kmtos-public/hx_mirror/installer_binding/manifest.json
+0774089454741be36e49c8b18e7dee80c77048d243daed8f60895ad3d1953b5b  /home/moghimi/kmtos-public/hx_mirror/ledger/commit.json

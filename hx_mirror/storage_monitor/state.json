@@ -1,0 +1,15 @@
+{
+  "version": "A.3.5",
+  "mirror-base": "/home/moghimi/kmtos-public/hx_mirror",
+  "workdir": "/home/moghimi/kmtos-public/hx_mirror/work_a34",
+  "ledger-dir": "/home/moghimi/kmtos-public/hx_mirror/ledger",
+  "system-normalized": "/home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json",
+  "events-normalized": "/home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json",
+  "health-flags": {"loop-active":true,"event-monitor-active":true},
+  "total-events": 1,
+  "last-event-timestamp": "2026-06-07T01:08:00+00:00",
+  "integrity-hash": "f97abaa5455bfaf6757b737c212ddfe4f4a4b9a065a6b5d0f376fe2032311c8e 385d3587bb8bb9147870ca5b49fb4ffe0093188f767f10fb7c6fa1bd35ec4bdb",
+  "system-size-bytes": 86,
+  "events-size-bytes": 83,
+  "timestamp-generated": "2026-06-07T07:03:34Z"
+}

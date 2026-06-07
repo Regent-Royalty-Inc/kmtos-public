@@ -1,0 +1,10 @@
+{
+  "version": "79A.10",
+  "checksums": {
+    "genesis-manifest": "d8477b9e4652577ac7929289670ffd0a0cbc6f97ca62194516ed4d6bfef72fba",
+    "continuum-integrity-report": "878d7d8f3c5b7db080a2186ded029cea337bb4322ac9468e111a2e3996177052",
+    "system-finalization": "bc75f1a67433956b65697d9baddbea7c8fc17db8a6603bc044a17c67bbf2db7d",
+    "continuum-binding": "a2cd3a8cb64d6b3a8ee76a84a2654133170a38d31e1c647eff8e16cba0f8e40f"
+  },
+  "timestamp-generated": "2026-06-07T07:00:59Z"
+}

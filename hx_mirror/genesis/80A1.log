@@ -1,0 +1,33 @@
+[80A.1] Field Propagation initialized.
+[80A.1] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.1] Telemetry validation confirmed.
+[80A.1] Harmonic index: 1
+[80A.1] Propagation intensity: 10
+[80A.1] Field propagation report written to /home/moghimi/kmtos-public/hx_mirror/genesis/field_propagation_report.json.
+[80A.1] External node Node_A activated.
+[80A.1] External node Node_B activated.
+[80A.1] External node Node_C activated.
+[80A.1] External node activation file written to /home/moghimi/kmtos-public/hx_mirror/genesis/external_node_activation.json.
+[80A.1] Genesis readiness summary updated to field-propagated-and-nodes-activated.
+[80A.1] Field Propagation and External Node Activation Protocol complete.
+[80A.1] Field Propagation initialized.
+[80A.1] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.1] ERROR: Telemetry not validated. Run 79A.13 before 80A.1.
+[80A.1] Field Propagation initialized.
+[80A.1] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.1] ERROR: Telemetry not validated. Run 79A.13 before 80A.1.
+[80A.1] Field Propagation initialized.
+[80A.1] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.1] ERROR: Telemetry not validated. Run 79A.13 before 80A.1.
+[80A.1] Field Propagation initialized.
+[80A.1] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.1] ERROR: Telemetry not validated. Run 79A.13 before 80A.1.
+[80A.1] Field Propagation initialized.
+[80A.1] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.1] ERROR: Telemetry not validated. Run 79A.13 before 80A.1.
+[80A.1] Field Propagation initialized.
+[80A.1] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.1] ERROR: Telemetry not validated. Run 79A.13 before 80A.1.
+[80A.1] Field Propagation initialized.
+[80A.1] Using GENESIS_DIR=/home/moghimi/kmtos-public/hx_mirror/genesis
+[80A.1] ERROR: Telemetry not validated. Run 79A.13 before 80A.1.

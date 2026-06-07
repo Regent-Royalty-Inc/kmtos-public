@@ -1,0 +1,139 @@
+[A.3.6] Cold-Storage Scaffold Activation initialized.
+[A.3.6] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.6] Storage monitor state found and valid.
+[A.3.6] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.6] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.6] integrity-hash: f97abaa5455bfaf6757b737c212ddfe4f4a4b9a065a6b5d0f376fe2032311c8e 385d3587bb8bb9147870ca5b49fb4ffe0093188f767f10fb7c6fa1bd35ec4bdb
+[A.3.6] total-events: 1
+[A.3.6] last-event-timestamp: 2026-06-07T01:08:00+00:00
+[A.3.6] Writing cold-storage metadata to /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json...
+[A.3.6] Cold-storage metadata file created.
+[A.3.6] Creating telemetry snapshot archive at /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz...
+[A.3.6] Cold-Storage Scaffold Activation initialized.
+[A.3.6] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.6] Storage monitor state found and valid.
+[A.3.6] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.6] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.6] integrity-hash: f97abaa5455bfaf6757b737c212ddfe4f4a4b9a065a6b5d0f376fe2032311c8e 385d3587bb8bb9147870ca5b49fb4ffe0093188f767f10fb7c6fa1bd35ec4bdb
+[A.3.6] total-events: 1
+[A.3.6] last-event-timestamp: 2026-06-07T01:08:00+00:00
+[A.3.6] Writing cold-storage metadata to /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json...
+[A.3.6] Cold-storage metadata file created.
+[A.3.6] Creating telemetry snapshot archive at /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz...
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+[A.3.6] Telemetry snapshot archive created.
+[A.3.6] Cold-storage archive size: 674 bytes
+[A.3.6] Cold-Storage Scaffold Activation complete.
+[A.3.6] Cold-Storage Scaffold Activation initialized.
+[A.3.6] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.6] Storage monitor state found and valid.
+[A.3.6] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.6] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.6] integrity-hash: f97abaa5455bfaf6757b737c212ddfe4f4a4b9a065a6b5d0f376fe2032311c8e 385d3587bb8bb9147870ca5b49fb4ffe0093188f767f10fb7c6fa1bd35ec4bdb
+[A.3.6] total-events: 1
+[A.3.6] last-event-timestamp: 2026-06-07T01:08:00+00:00
+[A.3.6] Writing cold-storage metadata to /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json...
+[A.3.6] Cold-storage metadata file created.
+[A.3.6] Creating telemetry snapshot archive at /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz...
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+[A.3.6] Telemetry snapshot archive created.
+[A.3.6] Cold-storage archive size: 661 bytes
+[A.3.6] Cold-Storage Scaffold Activation complete.
+[A.3.6] Cold-Storage Scaffold Activation initialized.
+[A.3.6] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.6] Storage monitor state found and valid.
+[A.3.6] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.6] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.6] integrity-hash: f97abaa5455bfaf6757b737c212ddfe4f4a4b9a065a6b5d0f376fe2032311c8e 385d3587bb8bb9147870ca5b49fb4ffe0093188f767f10fb7c6fa1bd35ec4bdb
+[A.3.6] total-events: 1
+[A.3.6] last-event-timestamp: 2026-06-07T01:08:00+00:00
+[A.3.6] Writing cold-storage metadata to /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json...
+[A.3.6] Cold-storage metadata file created.
+[A.3.6] Creating telemetry snapshot archive at /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz...
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+[A.3.6] Telemetry snapshot archive created.
+[A.3.6] Cold-storage archive size: 662 bytes
+[A.3.6] Cold-Storage Scaffold Activation complete.
+[A.3.6] Cold-Storage Scaffold Activation initialized.
+[A.3.6] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.6] Storage monitor state found and valid.
+[A.3.6] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.6] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.6] integrity-hash: f97abaa5455bfaf6757b737c212ddfe4f4a4b9a065a6b5d0f376fe2032311c8e 385d3587bb8bb9147870ca5b49fb4ffe0093188f767f10fb7c6fa1bd35ec4bdb
+[A.3.6] total-events: 1
+[A.3.6] last-event-timestamp: 2026-06-07T01:08:00+00:00
+[A.3.6] Writing cold-storage metadata to /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json...
+[A.3.6] Cold-storage metadata file created.
+[A.3.6] Creating telemetry snapshot archive at /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz...
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+[A.3.6] Telemetry snapshot archive created.
+[A.3.6] Cold-storage archive size: 661 bytes
+[A.3.6] Cold-Storage Scaffold Activation complete.
+[A.3.6] Cold-Storage Scaffold Activation initialized.
+[A.3.6] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.6] Storage monitor state found and valid.
+[A.3.6] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.6] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.6] integrity-hash: f97abaa5455bfaf6757b737c212ddfe4f4a4b9a065a6b5d0f376fe2032311c8e 385d3587bb8bb9147870ca5b49fb4ffe0093188f767f10fb7c6fa1bd35ec4bdb
+[A.3.6] total-events: 1
+[A.3.6] last-event-timestamp: 2026-06-07T01:08:00+00:00
+[A.3.6] Writing cold-storage metadata to /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json...
+[A.3.6] Cold-storage metadata file created.
+[A.3.6] Creating telemetry snapshot archive at /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz...
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+[A.3.6] Telemetry snapshot archive created.
+[A.3.6] Cold-storage archive size: 662 bytes
+[A.3.6] Cold-Storage Scaffold Activation complete.
+[A.3.6] Cold-Storage Scaffold Activation initialized.
+[A.3.6] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.6] Storage monitor state found and valid.
+[A.3.6] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.6] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.6] integrity-hash: f97abaa5455bfaf6757b737c212ddfe4f4a4b9a065a6b5d0f376fe2032311c8e 385d3587bb8bb9147870ca5b49fb4ffe0093188f767f10fb7c6fa1bd35ec4bdb
+[A.3.6] total-events: 1
+[A.3.6] last-event-timestamp: 2026-06-07T01:08:00+00:00
+[A.3.6] Writing cold-storage metadata to /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json...
+[A.3.6] Cold-storage metadata file created.
+[A.3.6] Creating telemetry snapshot archive at /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz...
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+[A.3.6] Telemetry snapshot archive created.
+[A.3.6] Cold-storage archive size: 662 bytes
+[A.3.6] Cold-Storage Scaffold Activation complete.
+[A.3.6] Cold-Storage Scaffold Activation initialized.
+[A.3.6] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.6] Storage monitor state found and valid.
+[A.3.6] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.6] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.6] integrity-hash: f97abaa5455bfaf6757b737c212ddfe4f4a4b9a065a6b5d0f376fe2032311c8e 385d3587bb8bb9147870ca5b49fb4ffe0093188f767f10fb7c6fa1bd35ec4bdb
+[A.3.6] total-events: 1
+[A.3.6] last-event-timestamp: 2026-06-07T01:08:00+00:00
+[A.3.6] Writing cold-storage metadata to /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json...
+[A.3.6] Cold-storage metadata file created.
+[A.3.6] Creating telemetry snapshot archive at /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz...
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+[A.3.6] Telemetry snapshot archive created.
+[A.3.6] Cold-storage archive size: 661 bytes
+[A.3.6] Cold-Storage Scaffold Activation complete.
+[A.3.6] Cold-Storage Scaffold Activation initialized.
+[A.3.6] Using MIRROR_BASE=/home/moghimi/kmtos-public/hx_mirror
+[A.3.6] Storage monitor state found and valid.
+[A.3.6] system-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json
+[A.3.6] events-normalized: /home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json
+[A.3.6] integrity-hash: f97abaa5455bfaf6757b737c212ddfe4f4a4b9a065a6b5d0f376fe2032311c8e 385d3587bb8bb9147870ca5b49fb4ffe0093188f767f10fb7c6fa1bd35ec4bdb
+[A.3.6] total-events: 1
+[A.3.6] last-event-timestamp: 2026-06-07T01:08:00+00:00
+[A.3.6] Writing cold-storage metadata to /home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json...
+[A.3.6] Cold-storage metadata file created.
+[A.3.6] Creating telemetry snapshot archive at /home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz...
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+[A.3.6] Telemetry snapshot archive created.
+[A.3.6] Cold-storage archive size: 663 bytes
+[A.3.6] Cold-Storage Scaffold Activation complete.

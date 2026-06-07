@@ -1,0 +1,10 @@
+{
+  "logs": {
+    "A.3.4": "work_a34/a34.log",
+    "A.3.5": "storage_monitor/a35.log",
+    "A.3.6": "cold_storage/a36.log",
+    "A.3.7": "installer_binding/a37.log",
+    "A.3.8": "installer_binding/a38.log"
+  }
+}
+

@@ -1,0 +1,12 @@
+{
+  "id": "seed-001",
+  "type": "symbolic-structural",
+  "label": "Continuum-Origin",
+  "description": "Primary structural seed derived from Continuum baseline.",
+  "created-at": "2026-06-07T07:00:59Z",
+  "parameters": {
+    "harmonic-index": 1,
+    "reversibility": true
+  },
+  "enabled": false
+}

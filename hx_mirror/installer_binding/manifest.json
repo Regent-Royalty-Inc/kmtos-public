@@ -1,0 +1,14 @@
+{
+  "version": "A.3.7",
+  "mirror-base": "/home/moghimi/kmtos-public/hx_mirror",
+  "artifacts": {
+    "system-normalized": "/home/moghimi/kmtos-public/hx_mirror/work_a34/system_normalized.json",
+    "events-normalized": "/home/moghimi/kmtos-public/hx_mirror/work_a34/events_normalized.json",
+    "ledger-commit": "/home/moghimi/kmtos-public/hx_mirror/ledger/commit.json",
+    "storage-monitor-state": "/home/moghimi/kmtos-public/hx_mirror/storage_monitor/state.json",
+    "cold-storage-metadata": "/home/moghimi/kmtos-public/hx_mirror/cold_storage/metadata.json",
+    "cold-storage-archive": "/home/moghimi/kmtos-public/hx_mirror/cold_storage/telemetry_snapshot.tar.gz"
+  },
+  "timestamp-generated": "2026-06-07T07:03:34Z",
+  "installer-ready": true
+}
