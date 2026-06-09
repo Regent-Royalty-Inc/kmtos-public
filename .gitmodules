@@ -1,0 +1,4 @@
+[submodule "kmtos"]
+    path = kmtos
+    url = git@github.com:Regent-Royalty-Inc/kmtos.git
+
