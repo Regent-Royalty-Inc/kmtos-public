@@ -1,0 +1,20 @@
+name: Deploy to Operator Node
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Deploy to Surface Operator
+        run: |
+          ssh -o StrictHostKeyChecking=no md@10.0.0.113 "
+            cd ~/kmtos-operator &&
+            git pull &&
+            ./install_bennu_v9.sh
+          "
+
