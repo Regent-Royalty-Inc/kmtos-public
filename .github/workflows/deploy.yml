@@ -12,7 +12,7 @@ jobs:
 
       - name: Deploy to Surface Operator
         run: |
-          ssh -o StrictHostKeyChecking=no md@10.0.0.113 "
+          ssh -o StrictHostKeyChecking=no moghimi@10.0.0.113 "
             cd ~/kmtos-operator &&
             git pull &&
             ./install_bennu_v9.sh

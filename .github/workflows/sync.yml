@@ -12,7 +12,7 @@ jobs:
 
       - name: Sync Public Node
         run: |
-          ssh -o StrictHostKeyChecking=no md@10.0.0.111 "
+          ssh -o StrictHostKeyChecking=no moghimi@10.0.0.111 "
             cd ~/kmtos-public &&
             git pull
           "
