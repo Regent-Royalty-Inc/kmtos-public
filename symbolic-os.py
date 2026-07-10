@@ -1,6 +1,21 @@
-import requests, json
+import requests
+import json
+import socket
 
-operator = "http://10.0.0.113:7070/ra-reveal"
+# Dynamically resolve current host IP
+def get_host_ip():
+    try:
+        s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        s.connect(("8.8.8.8", 80))
+        ip = s.getsockname()[0]
+        s.close()
+        return ip
+    except Exception:
+        return "127.0.0.1"
+
+OPERATOR_HOST = get_host_ip()
+OPERATOR_PORT = 7070
+operator = f"http://{OPERATOR_HOST}:{OPERATOR_PORT}/ra-reveal"
 
 print("☉ KmtOS [public] >> Symbolic environment initializing...")
 print("Continuum link established. Type commands below.\n")
@@ -20,5 +35,5 @@ while True:
         print("\nExiting symbolic environment...")
         break
     except Exception as e:
-        print("Error:", e)
+        print(f"☉ KmtOS [public] >> Error: {e}")
 
