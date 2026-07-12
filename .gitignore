@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 kmtos-venv/bin/activate.bak.*
 nohup.out
+copilot-cli/
